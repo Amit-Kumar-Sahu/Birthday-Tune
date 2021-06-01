@@ -1,5 +1,3 @@
-#define PAUSE 0
-// end of custom
 
 #define NOTE_B0  31
 #define NOTE_C1  33
